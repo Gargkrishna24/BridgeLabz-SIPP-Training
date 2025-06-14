@@ -1,4 +1,4 @@
-package java_programming_elements_level1;
+package Java_Programming_Elements;
 
 public class EarthVolume {
     public static void main(String[] args) {

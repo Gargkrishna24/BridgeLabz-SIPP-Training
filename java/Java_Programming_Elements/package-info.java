@@ -1,1 +1,1 @@
-package java_programming_elements_level1;
+package Java_Programming_Elements;

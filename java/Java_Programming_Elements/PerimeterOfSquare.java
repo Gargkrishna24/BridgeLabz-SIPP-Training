@@ -1,7 +1,7 @@
 /**
  * 
  */
-package java_programming_element_level2;
+package Java_Programming_Elements;
 import java.util.Scanner;
 
 /**

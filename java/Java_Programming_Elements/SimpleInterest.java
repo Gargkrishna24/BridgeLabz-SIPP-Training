@@ -1,4 +1,4 @@
-package java_programming_elements_level1;
+package Java_Programming_Elements;
 import java.util.Scanner;
 public class SimpleInterest {
 	public static void main(String[] args) {
