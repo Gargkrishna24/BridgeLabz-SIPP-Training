@@ -19,5 +19,6 @@ public class FibonacciGenerator {
         Scanner sc = new Scanner(System.in);
         int terms = sc.nextInt();
         generateFibonacci(terms);
-    }
+        sc.close();
+        }
 }
