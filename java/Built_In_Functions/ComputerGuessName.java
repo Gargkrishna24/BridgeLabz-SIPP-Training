@@ -2,7 +2,7 @@ package Built_In_Functions;
 
 import java.util.Scanner;
 
-public class ComputerGuessGame {
+public class ComputerGuessName {
 
     public static int generateGuess(int low, int high) {
         return low + (int)(Math.random() * (high - low + 1));
