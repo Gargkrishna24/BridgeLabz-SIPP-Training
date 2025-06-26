@@ -2,7 +2,7 @@ package String_Handling;
 
 import java.util.Scanner;
 
-public class LongestWordInSentence {
+public class LongestWordInString {
 
  public static void main(String[] args) {
      Scanner sc = new Scanner(System.in);
