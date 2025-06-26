@@ -1,4 +1,4 @@
-package String_Handler;
+package String_Handling;
 
 public class ToggleCore {
 
